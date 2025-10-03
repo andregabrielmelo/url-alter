@@ -1,0 +1,6 @@
+[submodule "url-alter-frontend"]
+	path = url-alter-frontend
+	url = https://github.com/andregabrielmelo/url-alter-frontend
+[submodule "url-alter-backend"]
+	path = url-alter-backend
+	url = https://github.com/andregabrielmelo/url-alter-backend
